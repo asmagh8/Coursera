@@ -1,2 +1,2 @@
 #firstpython.py
-print("new Python file")
+print("New Python file")
